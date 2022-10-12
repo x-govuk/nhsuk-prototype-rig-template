@@ -1,6 +1,6 @@
-# GOV.UK Prototype Rig template
+# NHS.UK Prototype Rig template
 
-A template prototype, built using the [GOV.UK Prototype Rig](https://govuk-prototype-rig.herokuapp.com).
+A template prototype, built using the [NHS.UK Prototype Rig](https://github.com/x-govuk/nhsuk-prototype-rig).
 
 Use this repository as a template.
 
